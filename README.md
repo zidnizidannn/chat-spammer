@@ -1,7 +1,7 @@
-# chat-spammer
+## chat-spammer
 simple chat spammer with python
 
-# Getting started
+## Getting started
 **how to use it**
 1. clone this repo `git clone`
 2. go into the folder using terminal
