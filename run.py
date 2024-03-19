@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 position= pyautogui.position()
-pesan= "min gas e entek"
+pesan= "hello"
 
 for a in range(30):
     pyautogui.click(position.x, position.y)
