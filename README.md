@@ -11,8 +11,7 @@ simple chat spammer with python
 4. run file `python run.py` or `python3 run.py`(if your python version is 3.x.x)
   > but before press the enter, point the cursor to the chat box (without pressing anything)
 5. then enter, and voilla
-
-
+---
 **note**
 * you have to split the screen into the code and chat you want to spam.
 * make good use of it :+1:
