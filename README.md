@@ -13,5 +13,6 @@ simple chat spammer with python
 5. then enter, and voilla
 
 > [!NOTE]
-> you have to split the screen into the code and chat you want to spam
+> you have to split the screen into the code and chat you want to spam.
+
 > make good use of it :+1:
